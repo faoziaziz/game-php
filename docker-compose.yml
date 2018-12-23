@@ -1,4 +1,5 @@
 # ./docker-compose.yml
+# masih menggunakan  php 7
 
 version: '3'
 
